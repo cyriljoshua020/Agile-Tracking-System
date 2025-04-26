@@ -1,6 +1,6 @@
-# Agile Tracking System Capstone
+# Agile Tracking System
 
-A React.js-based web application to manage and track agile software development workflows. This project is developed as part of an educational capstone to demonstrate modern front-end architecture, routing, context API usage, and component-based design.
+A React.js-based web application to manage and track agile software development workflows. This project is developed to demonstrate modern front-end architecture, routing, context API usage, and component-based design.
 
 ## 🚀 Features
 
@@ -17,5 +17,3 @@ A React.js-based web application to manage and track agile software development 
 - React Router DOM
 - Context API
 - HTML/CSS (or your chosen styling method)
-
-## 📂 Project Structure
